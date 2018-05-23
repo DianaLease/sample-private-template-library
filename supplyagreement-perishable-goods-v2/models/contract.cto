@@ -14,7 +14,7 @@ import org.accordproject.perishablegoods.*
  * a penality factor proportional to the deviation from the min and max
  * negociated temperatures for the shipment.
  */
- @AccordTemplateModel("supplyagreement-perishable-goods")
+ @AccordTemplateModel("supplyagreement-perishable-goods-v2")
 concept TemplateModel {
   --> Grower grower
   --> Importer importer

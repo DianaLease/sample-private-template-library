@@ -1,5 +1,5 @@
 {
-    "name": "supplyagreement-perishable-goods",
+    "name": "supplyagreement-perishable-goods-v2",
     "version": "0.1.0",
     "description": "This supply agreement specifies penalties if the transport conditions (temperature and humidity) for a package are breached.",
     "author": "clause.io",
